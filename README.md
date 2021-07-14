@@ -1,4 +1,16 @@
-# Bluebits
+# Einstein Angular Ecommerce
+
+# For development mode
+go to service check the api TS file. 
+
+npm install. 
+
+nx run ngshop:serve
+# For production 
+
+nx run ngshop:build or ng build --prod --base-href ./
+
+than go dist folder to download and test. 
 
 This project was generated using [Nx](https://nx.dev).
 
