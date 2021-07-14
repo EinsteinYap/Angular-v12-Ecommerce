@@ -12,6 +12,9 @@ nx run ngshop:build or ng build --prod --base-href ./
 
 than go dist folder to download and test. 
 
+# Visit the sample of Angular Ecommerce Website.
+https://einsteinyap.github.io/Angular-v12-Ecommerce/
+
 This project was generated using [Nx](https://nx.dev).
 
 <p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="450"></p>
